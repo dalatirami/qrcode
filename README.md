@@ -10,7 +10,7 @@
 
 **Dalati QR Tools** is a secure, 100% client-side web application designed to generate, customize, and decode QR codes instantly in your browser. Built with modern web technologies, it ensures absolute privacy by processing all data locally without any server uploads.
 
-🌐 **Live Application:** [https://tech.dalati.org/qrcode](https://tech.dalati.org/qrcode)
+🌐 **Live Application:** [https://rami.dalati.org/qrcode](https://rami.dalati.org/qrcode)
 
 **Developer:**
 This software was programmed and developed by Rami Al-Dalati (Software Developer, Digital Content Creator, and owner of the **Dalati English** platform). In the spirit of absolute transparency, this project was built with the assistance of AI tools to accelerate development and ensure the highest code quality, UX/UI standards, and security. For more tools and educational content, visit our official website: [dalati.org](https://dalati.org).
@@ -56,7 +56,7 @@ _Generate up to 10 QR codes simultaneously with a single click._
 Since Dalati QR Tools is a vanilla HTML/CSS/JS web application, no complex installation or backend server is required.
 
 **To use the live version:**
-Simply visit [https://tech.dalati.org/qrcode](https://tech.dalati.org/qrcode) on any modern web browser.
+Simply visit [https://rami.dalati.org/qrcode](https://rami.dalati.org/qrcode) on any modern web browser.
 
 **To run locally for development:**
 
