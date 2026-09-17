@@ -15,7 +15,7 @@
 **Developer:**
 This software was programmed and developed by Rami Al-Dalati (Software Developer, Digital Content Creator, and owner of the **Dalati English** platform). In the spirit of absolute transparency, this project was built with the assistance of AI tools to accelerate development and ensure the highest code quality, UX/UI standards, and security. For more tools and educational content, visit our official website: [dalati.org](https://dalati.org).
 
----
+--- 
 
 ### 📸 Application Interface
 
